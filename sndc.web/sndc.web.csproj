@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\img\gallery\1\" />
+    <Folder Include="wwwroot\img\gallery\2\" />
+    <Folder Include="wwwroot\img\gallery\3\" />
+    <Folder Include="wwwroot\img\gallery\4\" />
+    <Folder Include="wwwroot\img\gallery\5\" />
+  </ItemGroup>
+
+</Project>

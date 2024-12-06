@@ -1,0 +1,73 @@
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.suo
+
+# Environment files
+*.env
+
+# Temporary files
+*.tmp
+*.bak
+
+
+# Output folders
+bin/
+obj/
+
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+
+# Package caches
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+
+# Visual Studio configuration
+.vscode/
+.vs/
+*.sln.ide
+*.sln.docstates
+
+# Rider configuration
+.idea/
+
+# Resharper
+*.DotSettings.user
+
+
+# macOS metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+
+# Auto-generated files
+wwwroot/
+appsettings.*.json
+
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+
+# Visual Studio Code
+.vscode/
+
+
+docker-compose.override.yml
+.docker/
+
+
+swagger.json
+swagger-ui/
+
+
+.local.settings.json
